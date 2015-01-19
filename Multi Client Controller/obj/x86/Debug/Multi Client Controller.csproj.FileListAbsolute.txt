@@ -1,0 +1,12 @@
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\bin\Debug\Multi Client Controller.exe
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\bin\Debug\Multi Client Controller.pdb
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\Multi_Client_Controller.Properties.Resources.resources
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\Multi Client Controller.exe
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\Multi Client Controller.pdb
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\Multi_Client_Controller.Main.resources
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\bin\Debug\Multi Client Controller.exe.config
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Stash\Desktop\c sharp\multi_boxer\Multi Client Controller\Multi Client Controller\obj\x86\Debug\ResGen.write.1.tlog
